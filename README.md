@@ -31,7 +31,7 @@
 
 ## Kurulum
 * MSSQL kullanarak .sql dosyasını çalıştırın ve kurulumunu sağlayın.
-* Visual Studio programı ile de uygulamayı çalıştırabilirsiniz.
+* Visual Studio programı ile uygulamayı çalıştırabilirsiniz.
 * Eczane adı, varsayılan kullanıcılar, parolalar için .sql dosyasında değişiklikleri yapabilirsiniz.
 * Eczane ekleme işlemi veritabanı üzerinden yapabilirsiniz.
 
